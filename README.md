@@ -4,4 +4,4 @@ Be sure to FORK and CLONE a copy from your
 GitHub account.
 
 ## Team Members
-* Prof. Stolley (@profstolley)
+* Prof. Stolley ([@profstolley](https://github.com/profstolley))
